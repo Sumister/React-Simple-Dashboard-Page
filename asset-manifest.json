@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Simple-Dashboard-Page/static/css/main.7ae4ca62.css",
+    "main.js": "/React-Simple-Dashboard-Page/static/js/main.bc860ecd.js",
+    "static/media/mahesh.jpg": "/React-Simple-Dashboard-Page/static/media/mahesh.ba6e4bf593ee9a278f50.jpg",
+    "static/media/boy.jpg": "/React-Simple-Dashboard-Page/static/media/boy.988f65a2557492a79f5c.jpg",
+    "index.html": "/React-Simple-Dashboard-Page/index.html",
+    "main.7ae4ca62.css.map": "/React-Simple-Dashboard-Page/static/css/main.7ae4ca62.css.map",
+    "main.bc860ecd.js.map": "/React-Simple-Dashboard-Page/static/js/main.bc860ecd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae4ca62.css",
+    "static/js/main.bc860ecd.js"
+  ]
+}
